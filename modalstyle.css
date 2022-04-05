@@ -6,9 +6,10 @@ top: 15%;
     overflow: scroll;
 }
 
-.modal-body>p {
-    margin-bottom: 0;
-    max-width: max-content !important;
+.cms-wysiwyg a {
+    font-family: 'proxima-nova-condensed', sans-serif;
+    font-weight: bold;
+    color: #c8102e;
 }
 
 .modal-content {
