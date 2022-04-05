@@ -11,6 +11,10 @@
     outline: 0;
 } 
 
+.modal-open {
+    overflow: scroll;
+}
+
 .modal-content {
     position: relative;
     background-color: #fff;
