@@ -40,6 +40,8 @@ top: 15%;
     background-clip: padding-box;
     outline: 0;
     padding: 25px;
+    color:#041e42;
+    line-height:2vh;
 }
 
 .modal-dialog {
