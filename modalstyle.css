@@ -24,6 +24,11 @@ top: 15%;
     color: #c8102e !important;
 }
 
+.modal-title {
+    font-size: 1.7em;
+    margin: 0;
+}
+
 .modal-content {
     position: relative;
     background-color: #fff;
