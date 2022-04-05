@@ -19,9 +19,9 @@ top: 15%;
 }
 
 .cms-wysiwyg a {
-    font-family: 'proxima-nova-condensed', sans-serif;
-    font-weight: bold;
-    color: #c8102e;
+    font-family: 'proxima-nova-condensed', sans-serif !important;
+    font-weight: bold !important;
+    color: #c8102e !important;
 }
 
 .modal-content {
